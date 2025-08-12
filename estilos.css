@@ -1,0 +1,93 @@
+body {
+    background-image: url(5205491.jpg);
+    background-color: #cccccc;   
+}
+
+.esquina-superior-izquierda {
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-style: solid;
+  border-color: #011b25;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+.esquina-superior-derecha {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #f8e4b7;
+  border-style: solid;
+  border-color: #011b25;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.esquina-superior-derecha a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+
+.esquina-superior-derecha th:hover {
+  background-color: #011b25;
+  }
+
+.esquina-superior-derecha a:hover {
+  color: #f8e4b7
+  }
+
+#titulohola {
+  text-align: center;
+  background-color: #f8e4b7;
+  border: 2px solid #011b25;
+  margin-bottom: 100px;
+  margin-top: 300px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.generaltodalapantalla {
+  background-color: #f8e4b7;
+  border: 2px solid #011b25;
+}
+
+#desarrollo .generaltodalapantalla {
+  margin-top: 230px;
+  font-weight: bold;
+}
+
+#breveconceptoHTML {
+  position:absolute;
+  top: 700px;
+  left: 300px;
+}
+
+#breveconceptoCSS {
+  position:absolute;
+  top: 700px;
+  left: 750px;
+}
+
+#breveconceptojavascript {
+  position:absolute;
+  top: 700px;
+  left: 1200px;
+}
+
+.conceptos {
+  text-align: center;
+  color: #011b25;
+  background-color: #fed353 ;
+  border-style: solid;
+  border-color:  #011b25;
+  margin-top: 20px;
+  height: 150px;
+  width: 250px;
+}
+
+#tareas .generaltodalapantalla {
+  margin-top: 50px;
+  font-weight: bold;
+}
+
