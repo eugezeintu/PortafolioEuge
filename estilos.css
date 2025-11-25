@@ -11,6 +11,7 @@ body {
   border-color: #011b25;
   margin-left: 20px;
   margin-top: 20px;
+  z-index: 10;
 }
 
 
@@ -23,6 +24,7 @@ body {
   border-color: #011b25;
   margin-right: 20px;
   margin-top: 20px;
+  z-index: 10;
 }
 
 .esquina-superior-derecha a {
@@ -38,7 +40,7 @@ body {
 .esquina-superior-derecha a:hover {
   color: #f8e4b7
   }
-
+/*
 #titulohola {
   text-align: center;
   background-color: #f8e4b7;
@@ -47,11 +49,12 @@ body {
   margin-top: 300px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+  */
 .generaltodalapantalla {
   background-color: #f8e4b7;
   border: 2px solid #011b25;
 }
-
+/*
 #desarrollo .generaltodalapantalla {
   margin-top: 230px;
   font-weight: bold;
@@ -62,6 +65,7 @@ body {
   top: 700px;
   left: 200px;
 }
+  
 
 #breveconceptoCSS {
   position:absolute;
@@ -85,7 +89,7 @@ body {
   height: 150px;
   width: 250px;
 }
-
+*/
 #tareas .generaltodalapantalla {
   margin-top: 50px;
   font-weight: bold;
